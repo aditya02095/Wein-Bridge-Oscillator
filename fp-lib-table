@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "OpAmp") (type "KiCad") (uri "/home/aditya/Desktop/BITS/Placements/KiCAD Footprint libraries/OpAmp.pretty") (options "") (descr ""))
+)
